@@ -1,0 +1,5 @@
+This is just a todo list. Make sure changes are committed on this file everyday.
+
+1)GPS location on Welcome page
+2)Camera entire control.
+3)How to use the android.net package
